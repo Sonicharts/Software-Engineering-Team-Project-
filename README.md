@@ -10,5 +10,5 @@ https://trello.com/invite/b/6797f813641b0bf3eb2f1fbb/ATTI7aff5dd54e31261c7f16bdd
     Functions
   - Dislike Button 
   - Ratings 
-  - Watching an add(Not mandatory) for 30 seconds for 30 minutes 
+  - Watching an add(Not mandatory) for 60 seconds for 30 minutes 
   - Youtube wrapped (Goes over fav channel and how many videos were watched)
