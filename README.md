@@ -22,3 +22,5 @@ YouTube Deluxe Use Case Scenarios (2).xlsx - detailed desciptions
 Youtube Deluxe Project Deliverable.pdf - Project Propsal 
 
 Youtube Deluxe Project Plan Draft.docx - Project Plan
+
+System Requirements Document (2).pdf - More in detail about the functions and are product 
